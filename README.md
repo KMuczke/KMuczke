@@ -1,7 +1,7 @@
 <h1>Hey, I'm Ksawery Muczke!</h1>
 <p>A backend developer from The Netherlands,</p>
 <p>Mainly specializing in PHP and Laravel scenario's currently.
-<p>I've been also improving my skills in various fields such as game development and other languages such as JavaScript & C#</p>
+<p>I've been also improving my skills in various fields such as game development and other languages such as Luau, Java & C#</p>
 <p>I also enjoy using creative programs in my free time such as Photoshop and Premiere Pro for Content Creation.</p>
 <h2>Languages and Tools I Use:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
