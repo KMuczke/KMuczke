@@ -1,8 +1,8 @@
 <h1>Hey, I'm Ksawery Muczke!</h1>
 <p>A backend developer from The Netherlands,</p>
-<p>Mainly specializing in PHP and Laravel scenario's currently.
-<p>I've been also improving my skills in various fields such as game development and other languages such as Luau, Java & C#</p>
-<p>I also enjoy using creative programs in my free time such as Photoshop and Premiere Pro for Content Creation.</p>
+<p>Mainly specializing in Game Development and PHP / Laravel structures currently.
+<p>I've been also improving my skills in various languages such as Luau, Java & C#</p>
+<p>I also enjoy using creative programs in my free time such as Photoshop and Premiere Pro for Content Creation, or Unity and Roblox Studio for Game Development.</p>
 <h2>Languages and Tools I Use:</h2>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
