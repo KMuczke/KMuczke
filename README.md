@@ -2,7 +2,7 @@
 <p>A 17 year old backend / fullstack developer from The Netherlands,</p>
 <p>Mainly specializing in Game Development and PHP / Laravel structures currently.
 <p>I've been also improving my skills in various languages such as TypeScript, Java & C#</p>
-<p>In my free time, I enjoying using Photoshop and Premiere Pro for Content Creation, or Unity and RBLX Studio for Game Development.</p>
+<p>In my free time, I enjoying using Photoshop and Premiere Pro for Content Creation, or Unity and Roblox Studio for Game Development.</p>
 
 # My Tech Stack:
 
